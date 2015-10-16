@@ -1,0 +1,24 @@
+{
+  "name": "voting-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DennyScott/redux-boilerplate.git"
+  },
+  "keywords": [
+    "redux",
+    "react",
+    "boilerplate"
+  ],
+  "author": "Denny Scott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DennyScott/redux-boilerplate/issues"
+  },
+  "homepage": "https://github.com/DennyScott/redux-boilerplate#readme"
+}
